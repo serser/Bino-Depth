@@ -1,6 +1,6 @@
 # Binocular Depth Setup (With 2 Intel RealSense SR300s)
 
-Watch the vid displaying inteference here: https://www.youtube.com/watch?v=5kBVFhJboZQ
+Watch the vid displaying interference here: https://www.youtube.com/watch?v=5kBVFhJboZQ
 
 As multiple Intel RealSense SR300 depth cameras interfere, only one depth camera is allowed in such setting, and I let both cameras capture color frames.
 
